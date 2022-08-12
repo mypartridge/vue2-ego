@@ -1,0 +1,121 @@
+{
+  "id": "3523596",
+  "name": "易购后台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8776692",
+      "name": "message",
+      "font_class": "icon-test",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "8776706",
+      "name": "message_unread",
+      "font_class": "icon-test1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "8776715",
+      "name": "time",
+      "font_class": "icon-test2",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "8776784",
+      "name": "order",
+      "font_class": "icon-test3",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "8776785",
+      "name": "order_unread",
+      "font_class": "icon-test4",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "8776842",
+      "name": "search",
+      "font_class": "icon-test5",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "8776872",
+      "name": "share",
+      "font_class": "icon-test6",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "8776873",
+      "name": "setting",
+      "font_class": "icon-test7",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "8776878",
+      "name": "download",
+      "font_class": "icon-test8",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "8776944",
+      "name": "region",
+      "font_class": "icon-test9",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "8777166",
+      "name": "email",
+      "font_class": "icon-test10",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "8777250",
+      "name": "user",
+      "font_class": "icon-test11",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "8777371",
+      "name": "international",
+      "font_class": "icon-test12",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "8777495",
+      "name": "star_filled",
+      "font_class": "icon-test13",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "8777750",
+      "name": "social_server_fault",
+      "font_class": "icon-test14",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "8783413",
+      "name": "balance",
+      "font_class": "icon-test15",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    }
+  ]
+}
